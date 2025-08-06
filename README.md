@@ -27,6 +27,10 @@ align="center">
 - 📱  Estoy estudiando **Analisis Y Desarrollo de Sofware**
 
 - 🌐  Curso **Analisis De Datos con Python**
+  
+- 🌐  Curso **Fundamentos de Bases de  Datos**
+  
+- 🌐  Curso **Fundamento de Ciberseguridad**
 
 - 🌐  Botcamp **Desarrollo Web full Stack-Mintic**
   
